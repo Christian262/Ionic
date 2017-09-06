@@ -1,0 +1,1 @@
+These apps come from a Udemy course I took about Ionic. I added these to showcase what I know and can do with Ionic.
